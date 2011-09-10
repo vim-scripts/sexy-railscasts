@@ -1,0 +1,7 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=3737
+
+A GUI Only port of the RailsCasts TextMate theme to Vim.
+Some parts of this theme were borrowed from the well-documented Lucius theme [2].
+Initial file was written by Josh O'Rourke then improved by Oguz Bilgic
+
+https://github.com/oguzbilgic/sexy-railscasts-theme
